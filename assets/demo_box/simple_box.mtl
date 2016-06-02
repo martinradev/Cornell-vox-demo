@@ -1,0 +1,47 @@
+newmtl 0
+Ka 0 0 0
+Kd 0.2 0.2 0.2
+Ks 1 1 1
+illum 2
+Ns 10
+map_Kd 
+map_bump brushed_metal_normal_map.png 
+bump brushed_metal_normal_map.png 
+map_kS metal.png 
+map_opacity 
+map_d 
+refl 
+map_kA 
+map_Ns 
+
+newmtl 1
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+illum 2
+Ns 10
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl 2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd broken_glass.png
+map_bump glass_normal_map.png
+bump glass_normal_map.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
